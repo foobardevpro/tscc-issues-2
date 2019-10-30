@@ -1,0 +1,17 @@
+{
+	"modules": {
+		"dist/root": "src/root.ts",
+		"dist/bundle1":  {
+			"entry": "src/entry1.ts",
+			"dependencies": ["dist/root"]
+		},
+		"dist/bundle2": {
+			"entry": "src/entry2.ts",
+			"dependencies": ["dist/root"]
+		}
+	},
+	"external": {
+		"react": "React"
+	},
+	"prefix": "./"
+}

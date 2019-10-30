@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "node ./build.js",
+    "watch": "node ./watch.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tscc/rollup-plugin-tscc": "^0.4.5",
+    "@tscc/tscc": "^0.4.6",
+    "@types/react": "^16.9.11",
+    "rollup": "^1.25.2",
+    "rollup-plugin-livereload": "^1.0.4",
+    "rollup-plugin-serve": "^1.0.1",
+    "rollup-plugin-typescript": "^1.0.1",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "react": "^16.11.0"
+  }
+}

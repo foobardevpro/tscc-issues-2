@@ -1,0 +1,1 @@
+{"version":3,"file":"dist/root.js","lineCount":1,"mappings":"AAEAA,OAAAC,IAAA,CCAUC,KDAV;","sources":["src/root.ts","node_modules/@types/react/index.js"],"names":["console","log","React"]}
