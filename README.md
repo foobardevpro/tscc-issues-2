@@ -1,2 +1,2 @@
-0. run ``npm install``
-1. run ``node ./watch.js`` -- all console logs map to ``js`` file
+1. run ``npm install``
+2. run ``node ./watch.js`` -- all console logs map to ``js`` file
