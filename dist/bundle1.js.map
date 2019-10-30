@@ -1,1 +1,0 @@
-{"version":3,"file":"dist/bundle1.js","lineCount":1,"mappings":"AAAAA,OAAAC,IAAA,CAAY,MAAZ,C,CCEAD,OAAAC,IAAA,CAAY,SAAZ;","sources":["src/nested/test.ts","src/entry1.ts"],"names":["console","log"]}
